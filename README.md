@@ -179,22 +179,21 @@ Here are some ideas to get you started:
 <br>
 <div align='left'>
 
-<ul>
-
-<li>
 <a href="https://linkedin.com/in/qiaoqiao" target="_blank">
 <img src="https://img.shields.io/badge/linkedin: Qiao QIao-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
-<br>
 
 <br>
 
-<li>
 <a href="mailto:qqiao2024@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  qqiao2024-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
-</li>
+
+<br>
+
+<a href="https://stackoverflow.com/users/6142313/q-qiao" target="_blank">
+<img src="https://img.shields.io/badge/stack%20overflow: qqiao-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt=stackoverflow style="margin-bottom: 5px;"/>
+</a>
 	
 </ul>
 </div>
