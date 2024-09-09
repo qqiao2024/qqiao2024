@@ -28,9 +28,10 @@ Here are some ideas to get you started:
 
 <br>
 
-- A passionate Back-end developer
-- I’m currently open for a new job opportunity, this is [my linkedin](https://linkedin.com/in/qiaoqiao)
-
+- 🏫 A passionate Back-end developer
+- 🤔 I’m currently open for a new job opportunity, this is [my linkedin](https://linkedin.com/in/qiaoqiao)
+- 🧑‍💻 I love using Software as a solution for every Problem.
+- 🤓 Always learning new things.
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
