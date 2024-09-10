@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 - 🏫 A passionate Back-end developer
 - 🤔 I’m currently open for a new job opportunity, this is [my linkedin](https://linkedin.com/in/qiaoqiao)
 - 🧑‍💻 I love using Software as a solution for every Problem.
+- 📝 I am currently learning `LLM` and `Langchain`.
 - 🤓 Always learning new things.
 <br><br>
 
@@ -192,6 +193,13 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+## 📃<b> Certificates</b>
+
+![Oracle Cloud Infrastructure 2024 Generative AI Certified Professional](images/oracle.png)
+![Career Essentials in Generative AI by Microsoft and LinkedIn](images/gen_ai_ms_linkedin.png)
+
+-----
+
 ## 🤝<b> Let's Connect..!</b>
 <br>
 <div align='left'>
@@ -214,6 +222,8 @@ Here are some ideas to get you started:
 	
 </ul>
 </div>
+
+
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
