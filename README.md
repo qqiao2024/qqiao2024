@@ -195,8 +195,18 @@ Here are some ideas to get you started:
 
 ## 📃<b> Certificates</b>
 
-![Oracle Cloud Infrastructure 2024 Generative AI Certified Professional](images/oracle.png)
-![Career Essentials in Generative AI by Microsoft and LinkedIn](images/gen_ai_ms_linkedin.png)
+<div align="center">
+	<img src="images/oracle.png" width="500" alt="Oracle Cloud Infrastructure 2024 Generative AI Certified Professional">
+</div>
+<div align="center">
+	<img src="images/gen_ai_ms_linkedin.png" width="500" alt="Career Essentials in Generative AI by Microsoft and LinkedIn">
+</div>
+<div align="center">
+	<img src="images/amazon_sagemaker.png" width="500" alt="Amazon Sagemaker">
+</div>
+<div align="center">
+	<img src="images/big_data_and_ml_on_aws.png" width="500" alt="Big Data and ML on AWS">
+</div>
 
 -----
 
