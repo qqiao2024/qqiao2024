@@ -33,6 +33,7 @@ Here are some ideas to get you started:
 - 🧑‍💻 I love using Software as a solution for every Problem.
 - 📝 I am currently learning `LLM` and `Langchain`.
 - 🤓 Always learning new things.
+- 🧑‍💻️ A fan of self hosting.
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
